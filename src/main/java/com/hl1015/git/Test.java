@@ -7,5 +7,6 @@ public class Test {
         System.out.println("third commit");
         System.out.println("fourth commit from dev_hkw");
         System.out.println("master test");
+        System.out.println("dev_hkw test");
     }
 }
